@@ -23,5 +23,8 @@ plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
 
+baseurl: michcio1234.github.io/weronikapenar/
+timezone: Europe/Warsaw
+
 exclude:
   - .bundle
