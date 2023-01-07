@@ -25,7 +25,7 @@ plugins:
 
 domain: michcio1234.github.io
 url: https://michcio1234.github.io
-baseurl: /weronikapenar/
+baseurl: /weronikapenar
 timezone: Europe/Warsaw
 
 exclude:
