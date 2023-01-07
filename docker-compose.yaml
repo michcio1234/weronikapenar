@@ -1,0 +1,10 @@
+services:
+  server:
+    image: jekyll/jekyll:4.2.0
+    command: ["jekyll", "serve"]
+    volumes:
+      - "$PWD:/srv/jekyll:Z"
+      - "$PWD/.bundle:/usr/local/bundle:Z"
+    ports: 
+      - "4000:4000"
+
