@@ -23,7 +23,9 @@ plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
 
-baseurl: michcio1234.github.io/weronikapenar/
+domain: michcio1234.github.io
+url: https://michcio1234.github.io
+baseurl: /weronikapenar/
 timezone: Europe/Warsaw
 
 exclude:
